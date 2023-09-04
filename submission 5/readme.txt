@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/6499cb79087b5a7648a7e27d
+https://www.overleaf.com/1615953525kmxjzcgbjrwh
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=aE3i52QtmSQ&list=PLCTnU5PF4Zfe0-uwgWgDDoArrybFshPGe&index=4
@@ -8,7 +8,7 @@ Paper title:
 A Hybrid Approach to Classify Retinal Disease using XAI
 
 Paper presentation (anyone can view without login):
-https://www.overleaf.com/project/6499cb79087b5a7648a7e27d
+https://www.overleaf.com/1615953525kmxjzcgbjrwh
 
 Group Number:
 2
