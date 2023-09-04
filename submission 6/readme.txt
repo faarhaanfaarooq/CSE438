@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/read/jcgtzbvkqxhy
+https://www.overleaf.com/1615953525kmxjzcgbjrwh
 
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=YT-PJa6FxfY&list=PLCTnU5PF4Zfe0-uwgWgDDoArrybFshPGe&index=5
@@ -11,7 +11,7 @@ Paper title:
 A Hybrid Approach to Classify Retinal Disease using Explainable AI
 
 Paper presentation (anyone can view without login):
-https://www.overleaf.com/read/jcgtzbvkqxhy
+https://www.overleaf.com/1615953525kmxjzcgbjrwh
 
 Paper submission date (to workshop/conference):
 
